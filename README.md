@@ -16,5 +16,7 @@ If you just want to build the book, this is enough:
 mdbook build
 ```
 
-Help
+---
+
+## Contributions
 Suggestions and corrections or even translations are of course welcome. If you want to help, it is best to use Pull Requests or Issues.
